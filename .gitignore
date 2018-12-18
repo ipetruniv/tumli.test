@@ -1,4 +1,5 @@
 *.log
+*.sql
 logs
 robots.txt
 wp-config.php
