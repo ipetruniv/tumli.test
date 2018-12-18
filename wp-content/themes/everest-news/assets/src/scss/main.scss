@@ -1,0 +1,91 @@
+/*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+.
+. @ Project : Everest News
+.
+. @ Version : 1.0.0
+.
+. @ Since : 2018 July 25
+.
+. @ Last Updated : 04, Dec 2018
+.
+. @ Author : Everest Themes
+.
+. @ Author URL : https://everestthemes.com/
+.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
+
+// Browser Normalize V 8.0.0 
+
+
+@import 'framework/bootstrap-reboot';
+
+
+// CSS framework 
+
+
+@import 'framework/bootstrap-grid';
+
+
+// Variables for color & Typography
+
+
+@import 'variables/variables-color';
+@import 'variables/variables-typography';
+@import 'variables/woocommerce-variables';
+@import 'variables/spacing-variables';
+
+
+// Import mixins  
+
+
+@import 'mixins/mixins';
+
+
+// External plugins & library
+
+
+@import 'plugins/owlcarousel';
+@import 'plugins/retina';
+@import 'plugins/animate';
+@import 'plugins/niceselect';
+
+
+// Typography setup
+
+
+@import 'typography/typography';
+
+
+// Icon fonts ( fontAwesome )
+
+
+@import 'fonticons/fonticon';
+
+
+
+// Custom Stylesheet ( Table of content inside at styles.scss )
+
+
+@import 'custom/menu';
+@import 'custom/wp-styles';
+@import 'custom/woocommerce-styles';
+@import 'custom/styles';
+@import 'custom/wp-default-widgets';
+
+
+// Responsive or Media query
+
+
+@import 'responsive/responsive';
+
+
+// Keyframes 
+
+@import 'custom/keyframe';

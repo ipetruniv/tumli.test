@@ -1,0 +1,65 @@
+
+// Import bunch of colors
+
+
+@import 'colors/colors';
+
+
+// General Color Variables 
+
+$primary_color 							: #111111; 		// Black
+$secondary_color						: #ED1D25; 		// Red 
+$third_color							: #1774EE;		// Dark blue ( Used at hovers )
+$general_text_color						: #272727; 		// Black/Grey
+$special_text_color						: #a2a2a2;		// Grey 
+$special_purpose_color					: #a2a2a2; 		// Grey
+$comment_list_color						: #c2dcff;
+$border_color							: #eeeeee; 		// 
+$mask_background						: rgba(50,50,50,0.2); 
+
+
+// Main nav
+
+
+$nav_first_a_color						: $primary_color;
+$nav_ul_dropdown_bg						: #111111;
+$mobile_menu_bg							: #313131;	
+
+
+// Posts variables 
+
+$excerpt_color							: #555555;
+
+
+// Meta variables 
+
+$posted_date							: $secondary_color;
+$categories								: $third_color;
+$likes									: #00DE7B;		// Green
+$views									: #FF6600;		// Orange
+
+
+//  Footer ( Dark )
+
+$dark_footer_bg							: #111111; //
+$dark_footer_bottom_bg					: #000000; // Pure black 
+$dark_footer_text_color					: #b3b3b3; // 
+$dark_footer_links_color				: #b3b3b3; //
+$dark_footer_heading_lines_color		: #444444; 
+$dark_footer_heading_color				: #f5f5f5; //
+$dark_footer_border_color				: #3e3e3e;
+$dark_footer_hover_color				: $third_color;
+
+
+// Footer ( Light bg )
+
+$light_footer_bg						: #f5f5f5;
+$light_footer_border_color				: #f3ecec;
+
+
+// Section 
+
+$section_bg								: #f5f5f5;
+
+
+

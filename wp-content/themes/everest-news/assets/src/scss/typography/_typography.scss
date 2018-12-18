@@ -1,0 +1,47 @@
+
+//  General Typo graphy setup 
+
+h1 {
+
+	font-size: 42px;
+}
+
+h2 {
+
+	font-size:36px;
+}
+
+h3 {
+
+	font-size:32px;
+}
+
+h4 {
+
+	font-size:28px;
+}
+
+h5 {
+
+	font-size:24px;
+}
+
+h6 {
+
+	font-size:20px;
+}
+
+
+h1,h2,h3,h4,h5,h6, 
+.h1,.h2,.h3,.h4,.h5,.h6  {
+
+
+	line-height:$body_heading_line_height;
+	font-family: $primary_font_family;
+	font-weight: $body_heading_font_weight;
+	padding: 0;
+	margin:0;
+	letter-spacing: $heading_letter_spacing;
+}
+
+
