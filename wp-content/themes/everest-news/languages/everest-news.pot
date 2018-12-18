@@ -1,0 +1,849 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Everest News\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-16 08:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.1"
+
+#. 1: list of categories.
+#: inc/theme-functions.php:236 inc/theme-functions.php:261
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. 1: Copyright Text 2: Theme name, 3: Theme author.
+#: footer.php:34
+#, php-format
+msgid "%1$s %2$s by %3$s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:37
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-author-widget.php:135
+msgid "&mdash; Select Page &mdash;"
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: third-party/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:135
+msgid "Archive Page"
+msgstr ""
+
+#: third-party/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-author-widget.php:143
+msgid "Author Link Title"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-author-widget.php:128
+msgid "Author Page"
+msgstr ""
+
+#: inc/widgets/class-everest-news-widget-init.php:70
+msgid "Banner Widget Area"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:126
+msgid "Blog Page"
+msgstr ""
+
+#: inc/class-everest-news.php:83
+msgid "Bottom Footer Menu"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:583
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:190
+msgid "Breadcrumb"
+msgstr ""
+
+#: third-party/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/functions/customizer-defaults.php:57
+msgid "Breaking News"
+msgstr ""
+
+#: third-party/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/metabox/class-everest-news-post-meta.php:79
+msgid "checked"
+msgstr ""
+
+#. %s is the page number.
+#: third-party/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/class-everest-news-customizer.php:710
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:70
+msgid ""
+"Cream Magazine Pro Homepage Customization. Set Options For Homepage "
+"Customization."
+msgstr ""
+
+#: third-party/breadcrumbs.php:790 third-party/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-post-widget.php:201
+msgid "Display Layout:"
+msgstr ""
+
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-four.php:13
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-two.php:13
+msgid "Displays posts. Use this widget at full-width top & bottom news area."
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-one.php:12
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-three.php:21
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:21
+msgid "Displays posts. Use this widget at middle & top middle news area."
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-post-widget.php:21
+msgid "Displays Recent Posts. Use this at sidebar/footer/canvas."
+msgstr ""
+
+#. Base ID
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-author-widget.php:11
+msgid "EN: Author Widget"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/banner-widgets/banner-widget-one.php:11
+msgid "EN: Banner Widget"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-two.php:11
+msgid "EN: Fullwidth Widget 1"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-four.php:11
+msgid "EN: Fullwidth Widget 2"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-one.php:10
+msgid "EN: Halfwidth Widget 1"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-three.php:19
+msgid "EN: Halfwidth Widget 2"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:19
+msgid "EN: Halfwidth Widget 3"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-post-widget.php:19
+msgid "EN: Sidebar Posts Widget"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:11
+msgid "EN: Social Widget"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:808
+msgid "Enable Author Meta"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:764
+msgid "Enable Author Section"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:974
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:841
+msgid "Enable Categories Meta"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:830
+msgid "Enable Comments Meta"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:662
+msgid "Enable Home Button"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:819
+msgid "Enable Posted Date Meta"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:775
+msgid "Enable Related Posts Section"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:985
+msgid "Enable Scroll Top Button"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:674
+msgid "Enable Search Button"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:996
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:852
+#: inc/customizer/class-everest-news-customizer.php:863
+msgid "Enable Tags Meta"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:593
+msgid "Enable Ticker News"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:685
+msgid "Enable Toggle Sidebar Button"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:650
+msgid "Enable Top Header"
+msgstr ""
+
+#. Name of the theme
+msgid "Everest News"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Everest News is a full featured professional WordPress theme. Everest News "
+"is a modern, clean and fully-responsive theme. Everest News is a great "
+"choice for online news, magazines and blogs to xpress your views and "
+"experiences of the world. All the sections of theme are controlled via "
+"customizer options and widgets, which makes customization and arrangement of "
+"site elements easier. Speed, SEO, security, comments, translation ready, etc."
+" are some of the features of Everest News. Start writing, publishing and "
+"advertising in minutes."
+msgstr ""
+
+#: inc/helper-functions.php:198
+msgid "Everest Toolkit"
+msgstr ""
+
+#: footer.php:34 footer.php:37
+msgid "Everestthemes"
+msgstr ""
+
+#. Author of the theme
+msgid "everestthemes"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:873
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:58
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:883
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:169
+msgid "Facebook Link:"
+msgstr ""
+
+#: inc/widgets/banner-widgets/banner-widget-one.php:13
+msgid "First Banner Layout."
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:317
+msgid "First Title"
+msgstr ""
+
+#: inc/class-everest-news.php:235
+#: inc/customizer/class-everest-news-customizer.php:117
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:584
+msgid "Full Width"
+msgstr ""
+
+#: inc/widgets/class-everest-news-widget-init.php:100
+msgid "Fullwidth Bottom News Area"
+msgstr ""
+
+#: inc/widgets/class-everest-news-widget-init.php:80
+msgid "Fullwidth Top News Area"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:105
+msgid "Google +"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:923
+msgid "Google Plus Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:183
+msgid "Google Plus Link:"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:108
+msgid "Header"
+msgstr ""
+
+#: inc/class-everest-news.php:247
+msgid "Header Advertisement"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:1144
+msgid "Header One"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:1148
+msgid "Header Two"
+msgstr ""
+
+#: third-party/breadcrumbs.php:266
+#: inc/customizer/class-everest-news-customizer.php:99
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page Template"
+msgstr ""
+
+#: third-party/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://everestthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://everestthemes.com/themes/everest-news/"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:72
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:903
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:190
+msgid "Instagram Link:"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-post-widget.php:206
+msgid "Layout One"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-post-widget.php:207
+msgid "Layout Two"
+msgstr ""
+
+#: inc/metabox/class-everest-news-post-meta.php:67
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:1123
+#: inc/customizer/class-everest-news-customizer.php:1166
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:86
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:943
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:197
+msgid "linkedin Link:"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:126
+msgid "Medium"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:232
+msgid "Medium Link:"
+msgstr ""
+
+#: inc/widgets/class-everest-news-widget-init.php:90
+msgid "Middle News Area"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: third-party/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: third-party/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:199
+msgid "Miscellaneous"
+msgstr ""
+
+#: third-party/breadcrumbs.php:789 third-party/breadcrumbs.php:845
+#: third-party/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: inc/helper-functions.php:26
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/theme-hooks.php:149
+msgid "Next Post"
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-one.php:143
+#: inc/widgets/banner-widgets/banner-widget-one.php:110
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-four.php:141
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-two.php:139
+msgid "No categories to select."
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-post-widget.php:194
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-one.php:152
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-three.php:197
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:365
+#: inc/widgets/banner-widgets/banner-widget-one.php:119
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-four.php:150
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-two.php:148
+msgid "No of Posts"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:1174
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox/class-everest-news-post-meta.php:68
+msgid "None"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found !"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid ""
+"Nothing was found at this location. Try adjusting your keyword &amp; search "
+"again ..."
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: inc/helper-functions.php:33
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. %s is the page number.
+#: third-party/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: 404.php:22
+msgid "Page not found !"
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:30
+msgid "Pages:"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:93
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:963
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:211
+msgid "Pinterest Link:"
+msgstr ""
+
+#: inc/widgets/class-everest-news-widget-init.php:72
+msgid "Place banner widgets here."
+msgstr ""
+
+#: inc/widgets/class-everest-news-widget-init.php:82
+#: inc/widgets/class-everest-news-widget-init.php:102
+msgid "Place fullwidth widgets here."
+msgstr ""
+
+#: inc/widgets/class-everest-news-widget-init.php:92
+msgid "Place halfwidth widgets here."
+msgstr ""
+
+#. %1$s: span i tag open, %2$s: span i tag close, %3$s: post author.
+#: inc/theme-functions.php:184
+#, php-format
+msgctxt "post author"
+msgid "%1$s %2$s"
+msgstr ""
+
+#. %1$s: post author.
+#: inc/theme-functions.php:119
+#, php-format
+msgctxt "post author"
+msgid "Posted By: %1$s"
+msgstr ""
+
+#. %1$s: i tag open, %2$s: i tag close, %3$s: post date.
+#: inc/theme-functions.php:166
+#, php-format
+msgctxt "post date"
+msgid "%1$s %2$s"
+msgstr ""
+
+#. %1$s: post date.
+#: inc/theme-functions.php:101
+#, php-format
+msgctxt "post date"
+msgid "Posted On: %1$s"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:171
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:172
+msgid ""
+"Post Excerpt is the number of words of content which are displayed instead "
+"of full content. You can control the number of words to be displyed in this "
+"section."
+msgstr ""
+
+#. %1$s: post likes.
+#: inc/theme-functions.php:138
+#, php-format
+msgctxt "post likes"
+msgid "Comments: %1$s"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:162
+msgid "Post Meta"
+msgstr ""
+
+#: inc/theme-hooks.php:148
+msgid "Prev Post"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:1008
+msgid "Primary Color"
+msgstr ""
+
+#: inc/class-everest-news.php:81
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:120
+msgid "Quora"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:953
+msgid "Quora Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:246
+msgid "Quora Link:"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:100
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:913
+msgid "Reddit Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:218
+msgid "Reddit Link:"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:785
+msgid "Related Posts Section Title"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:796
+msgid "Related Section Posts Number"
+msgstr ""
+
+#: inc/metabox/class-everest-news-post-meta.php:66
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:1127
+#: inc/customizer/class-everest-news-customizer.php:1170
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/class-everest-news.php:387
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:144
+msgid "Search Page"
+msgstr ""
+
+#. %s: search query.
+#: search.php:43
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: third-party/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:341
+msgid "Second Title"
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-one.php:124
+#: inc/widgets/banner-widgets/banner-widget-one.php:91
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-four.php:122
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-two.php:120
+msgid "Select Category:"
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-three.php:179
+msgid "Select Category: "
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:323
+msgid "Select First Category: "
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:698
+msgid "Select Header Layout"
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:347
+msgid "Select Second Category: "
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:723
+#: inc/customizer/class-everest-news-customizer.php:737
+#: inc/customizer/class-everest-news-customizer.php:751
+msgid "Select Sidebar Position"
+msgstr ""
+
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-three.php:189
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:333
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-five.php:357
+msgid "Show Recent Posts"
+msgstr ""
+
+#: inc/class-everest-news.php:214
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metabox/class-everest-news-post-meta.php:45
+#: inc/customizer/class-everest-news-customizer.php:637
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:153
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:90
+#: inc/customizer/class-everest-news-customizer.php:579
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:181
+msgid "Social Links"
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"The page/post that you are looking for either has moved recently or "
+"doesn&apos;t exists in this server."
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:69
+msgid "Theme Customization"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:614
+msgid "Ticker News: Categories"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:625
+msgid "Ticker News: Posts Number"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:603
+msgid "Ticker News: Section Title"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-post-widget.php:187
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-author-widget.php:122
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-one.php:118
+#: inc/widgets/halfwidth-news-widgets/halfwidth-widget-three.php:173
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-four.php:116
+#: inc/widgets/fullwidth-news-widgets/fullwidth-widget-two.php:114
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:162
+msgid "Title: "
+msgstr ""
+
+#: inc/class-everest-news.php:225
+msgid "Toggle Sidebar"
+msgstr ""
+
+#: inc/class-everest-news.php:82
+msgid "Top Header Menu"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:65
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:893
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:176
+msgid "Twitter Link:"
+msgstr ""
+
+#: inc/class-everest-news.php:387
+msgid "Type Something"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-author-widget.php:13
+msgid "Use this at sidebar/footer/canvas"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:13
+msgid "Use this widget at sidebar/footer/canvas"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:110
+msgid "Vimeo"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:239
+msgid "Vimeo Link:"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:79
+msgid "Vk"
+msgstr ""
+
+#: inc/customizer/class-everest-news-customizer.php:933
+msgid "VK Link"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:225
+msgid "VK Link:"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: third-party/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: third-party/breadcrumbs.php:788 third-party/breadcrumbs.php:817
+#: third-party/breadcrumbs.php:844 third-party/breadcrumbs.php:871
+#: third-party/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:115
+msgid "Youtube"
+msgstr ""
+
+#: inc/widgets/sidebar-footer-widgets/class-everest-news-social-widget-one.php:204
+msgid "Youtube Link:"
+msgstr ""
